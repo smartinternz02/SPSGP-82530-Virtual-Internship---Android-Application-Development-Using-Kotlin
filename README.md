@@ -32,8 +32,7 @@ RecyclerView is a container and it is used to display the collection of data in 
 Coroutines are a lightweight thread, we use a coroutine to perform an operation on other threads, by this our main thread doesn’t block and our app doesn’t crash. 
 
 
-#SCREENSHOTS-
-Here I have pasted 2 screenshots for the project file.. the mainactivity file and the items..
+
 
 
 
